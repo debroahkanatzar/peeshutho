@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://afailigohg.pernillainigo.com/sitemap.xml
